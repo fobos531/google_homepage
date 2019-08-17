@@ -88,3 +88,48 @@ a img {
     position:relative;
     top: 5px;
 }
+
+
+#croatia {
+    position: relative;
+    top: 257px;
+    margin-left: 5px;
+    padding: 4px;
+    padding-left:12px;
+    background-color:#f2f2f2;
+}
+#croatia p {
+    color:rgba(0, 0, 0, 0.541176);
+}
+
+footer {
+    display:block;
+    position:fixed;
+    bottom: 0;
+    margin: 0;
+    width:100%;
+    padding: 15px;
+    background-color:#f2f2f2;
+}
+
+footer a {
+    text-decoration:none;
+    color:rgba(0, 0, 0, 0.541176);
+   
+}
+footer a:hover {
+    text-decoration: underline;
+}
+
+footer #left {
+    display: inline;
+
+}
+
+footer #right {
+    display: inline;
+    position:relative;
+    left:67%;
+  
+    margin: 12px;
+}
